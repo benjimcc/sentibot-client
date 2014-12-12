@@ -1,0 +1,29 @@
+{
+  "name": "sentibot-client",
+  "version": "1.0.0",
+  "description": "Sentibot Angular CLient served using Express",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjimcc/sentibot-client.git"
+  },
+  "keywords": [
+    "Sentibot",
+    "Client",
+    "AngularJS",
+    "Express"
+  ],
+  "author": "Ben McCarthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjimcc/sentibot-client/issues"
+  },
+  "homepage": "https://github.com/benjimcc/sentibot-client",
+  "dependencies": {
+    "express": "^4.10.5",
+    "gzippo": "^0.2.0"
+  }
+}
